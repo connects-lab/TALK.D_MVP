@@ -1,7 +1,4 @@
 # TalkD-WebApp
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+- Flutterflow로 WebView 기능 구현
+- 현재 연결 url: [wikipedia.org](https://en.wikipedia.org/wiki/Main_Page)
